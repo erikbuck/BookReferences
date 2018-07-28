@@ -1,2 +1,2 @@
 # BookReferences
-[Links to Programming Books](html/index.html)
+[Links to Programming Books](books.html)

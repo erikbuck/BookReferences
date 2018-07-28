@@ -275,64 +275,7 @@ ul
   width=3 height=3 id="Picture 21" src="books_files/image021.png"></span></p>
   </td>
  </tr>
- <tr>
-  <td width=80 valign=top style='width:79.85pt;border:none;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-autospace:
-  none'><span style='font-size:11.0pt;font-family:Verdana'><img border=0
-  width=3 height=3 id="Picture 22" src="books_files/image022.png"></span></p>
-  <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-autospace:
-  none'><span style='font-size:11.0pt;font-family:Verdana'><img border=0
-  width=3 height=3 id="Picture 23" src="books_files/image023.png"></span></p>
-  <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-autospace:
-  none'><a href="http://www.gettextbooks.com/isbn/9780321639639/"><span
-  style='font-size:11.0pt;font-family:Verdana;color:#0000E9;text-decoration:
-  none'><img border=0 width=62 height=83 id="Picture 24"
-  src="books_files/image024.png"></span></a></p>
-  <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-autospace:
-  none'><span style='font-size:11.0pt;font-family:Verdana'><img border=0
-  width=3 height=3 id="Picture 25" src="books_files/image025.png"></span></p>
-  </td>
-  <td width=12 style='width:11.8pt;border:none;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-autospace:
-  none'><span style='font-size:11.0pt;font-family:Verdana'><img border=0
-  width=3 height=3 id="Picture 26" src="books_files/image026.png"></span></p>
-  </td>
-  <td width=918 valign=top style='width:917.55pt;border:none;padding:0in 5.4pt 0in 5.4pt'>
-  <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-autospace:
-  none'><span style='font-size:11.0pt;font-family:Verdana'><img border=0
-  width=3 height=3 id="Picture 27" src="books_files/image027.png"></span></p>
-  <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-autospace:
-  none'><span style='font-size:11.0pt;font-family:Verdana'><a
-  href="http://www.gettextbooks.com/isbn/9780321639639/"><span
-  style='font-size:18.0pt;color:#0000E9'>Cocoa Programming Developer's Handbook</span></a></span><span
-  style='font-size:18.0pt;font-family:Verdana'>(1st&nbsp;Edition)</span></p>
-  <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-autospace:
-  none'><span style='font-size:13.0pt;font-family:Verdana'>by <a
-  href="http://www.gettextbooks.com/author/David_Chisnall"><span
-  style='color:windowtext;text-decoration:none'>David Chisnall</span></a>, <a
-  href="http://www.gettextbooks.com/author/Erik_M_Buck"><b><span
-  style='color:windowtext;text-decoration:none'>Erik</span></b><span
-  style='color:windowtext;text-decoration:none'> <b>M</b>. <b>Buck</b></span></a>,
-  <a href="http://www.gettextbooks.com/author/Scott_Anguish"><span
-  style='color:windowtext;text-decoration:none'>Scott Anguish</span></a>, <a
-  href="http://www.gettextbooks.com/author/Donald_A_Yacktman"><span
-  style='color:windowtext;text-decoration:none'>Donald A. Yacktman</span></a>, <a
-  href="http://www.gettextbooks.com/author/Erik_Buck"><b><span
-  style='color:windowtext;text-decoration:none'>Erik</span></b><span
-  style='color:windowtext;text-decoration:none'> <b>Buck</b></span></a>, <a
-  href="http://www.gettextbooks.com/author/Donald_Yacktman"><span
-  style='color:windowtext;text-decoration:none'>Donald Yacktman</span></a></span></p>
-  <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-autospace:
-  none'><i><span style='font-size:13.0pt;font-family:Verdana'>Paperback</span></i><span
-  style='font-size:13.0pt;font-family:Verdana'>, <i>936 Pages</i>, <i>Published
-  2010 by Addison-Wesley Professional</i></span></p>
-  <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-autospace:
-  none'><i><span style='font-size:13.0pt;font-family:Verdana;color:#535353'>ISBN-13:&nbsp;978-0-321-63963-9,&nbsp;ISBN:&nbsp;0-321-63963-4</span></i></p>
-  <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-autospace:
-  none'><span style='font-size:13.0pt;font-family:Verdana'><img border=0
-  width=3 height=3 id="Picture 28" src="books_files/image028.png"></span></p>
-  </td>
- </tr>
+
  <tr>
   <td width=80 valign=top style='width:79.85pt;border:none;padding:0in 5.4pt 0in 5.4pt'>
   <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-autospace:
@@ -606,4 +549,3 @@ ul
 </body>
 
 </html>
-

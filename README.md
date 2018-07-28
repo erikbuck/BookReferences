@@ -8,7 +8,6 @@
 <meta name=Keywords content="">
 <meta http-equiv=Content-Type content="text/html; charset=macintosh">
 <meta name=Generator content="Microsoft Word 14 (filtered)">
-<title>Books</title>
 <style>
 <!--
  /* Font Definitions */

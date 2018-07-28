@@ -2,8 +2,110 @@
 [Links to Programming Books](books.html)
 
 <html>
+
+<head>
+<meta name=Title content=Books>
+<meta name=Keywords content="">
+<meta http-equiv=Content-Type content="text/html; charset=macintosh">
+<meta name=Generator content="Microsoft Word 14 (filtered)">
+<title>Books</title>
+<style>
+<!--
+ /* Font Definitions */
+@font-face
+	{font-family:"Courier New";
+	panose-1:2 7 3 9 2 2 5 2 4 4;}
+@font-face
+	{font-family:Times;
+	panose-1:2 0 5 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"\FF2D\FF33 \660E\671D";}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Cambria;
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:"Lucida Grande";
+	panose-1:2 11 6 0 4 5 2 2 2 4;}
+@font-face
+	{font-family:"Songti SC Black";
+	panose-1:2 1 8 0 4 1 1 1 1 1;}
+ /* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:6.0pt;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	font-size:12.0pt;
+	font-family:Cambria;}
+h1
+	{margin-top:24.0pt;
+	margin-right:0in;
+	margin-bottom:6.0pt;
+	margin-left:0in;
+	font-size:16.0pt;
+	font-family:Calibri;
+	color:#345A8A;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:9.0pt;
+	font-family:"Lucida Grande";}
+span.Heading1Char
+	{font-family:Calibri;
+	color:#345A8A;
+	font-weight:bold;}
+p.Code, li.Code, div.Code
+	{margin-top:0in;
+	margin-right:-.25in;
+	margin-bottom:0in;
+	margin-left:-.25in;
+	margin-bottom:.0001pt;
+	line-height:12.0pt;
+	font-size:9.0pt;
+	font-family:"Courier New";}
+p.AppendixHeading, li.AppendixHeading, div.AppendixHeading
+	{margin-top:24.0pt;
+	margin-right:0in;
+	margin-bottom:12.0pt;
+	margin-left:0in;
+	page-break-before:always;
+	font-size:18.0pt;
+	font-family:Times;
+	color:#345A8A;
+	font-weight:bold;}
+span.AppendixHeadingChar
+	{font-family:Times;
+	color:#345A8A;
+	font-weight:bold;}
+span.BalloonTextChar
+	{font-family:"Lucida Grande";}
+.MsoChpDefault
+	{font-family:Cambria;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+
+</head>
+
 <body lang=EN-US>
+
 <div class=WordSection1>
+
 <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=1009
  style='border-collapse:collapse;border:none'>
  <tr>
@@ -376,7 +478,7 @@
   <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-autospace:
   none'><span style='font-size:11.0pt;font-family:Verdana'><a
   href="http://www.gettextbooks.com/isbn/9783826690518/"><span
-  style='font-size:18.0pt;color:#0000E9'>Cocoa Design Patterns fr Mac und
+  style='font-size:18.0pt;color:#0000E9'>Cocoa Design Patterns für Mac und
   iPhone</span></a></span></p>
   <p class=MsoNormal style='margin:0in;margin-bottom:.0001pt;text-autospace:
   none'><span style='font-size:13.0pt;font-family:Verdana'>by <a
@@ -497,8 +599,12 @@
   </td>
  </tr>
 </table>
+
 <p class=MsoNormal>&nbsp;</p>
+
 </div>
+
 </body>
+
 </html>
 
